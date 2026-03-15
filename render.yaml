@@ -1,0 +1,61 @@
+services:
+  - type: web
+    name: legalrag-api
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: USE_EURI
+        value: "true"
+      - key: EURI_API_KEY
+        sync: false
+      - key: EURI_BASE_URL
+        value: https://api.euron.one/api/v1/euri
+      - key: EURI_EMBEDDING_MODEL
+        value: text-embedding-3-small
+      - key: EURI_LLM_MODEL
+        value: gpt-4o-mini
+      - key: VECTOR_DB
+        value: pinecone
+      - key: PINECONE_API_KEY
+        sync: false
+      - key: PINECONE_INDEX_NAME
+        value: legalrag
+      - key: EMBED_DIMENSIONS
+        value: "1536"
+      - key: EMBED_NORMALIZE
+        value: "true"
+      - key: AWS_ACCESS_KEY_ID
+        sync: false
+      - key: AWS_SECRET_ACCESS_KEY
+        sync: false
+      - key: AWS_REGION
+        value: ap-south-1
+      - key: AWS_ACCOUNT_ID
+        value: "615815645247"
+      - key: S3_BUCKET_NAME
+        value: legal-rag-documents-615815645247
+      - key: DEDUP_TABLE
+        value: legalrag-dedup
+      - key: SESSIONS_TABLE
+        value: legalrag-sessions
+      - key: TOP_K_RETRIEVE
+        value: "15"
+      - key: TOP_N_FINAL
+        value: "5"
+      - key: SEMANTIC_WEIGHT
+        value: "0.6"
+      - key: KEYWORD_WEIGHT
+        value: "0.4"
+      - key: MAX_TOKENS
+        value: "2048"
+      - key: TEMPERATURE
+        value: "0.1"
+      - key: CACHE_ENABLED
+        value: "false"
+      - key: LOG_LEVEL
+        value: INFO
+      - key: ENABLE_GUARDRAILS
+        value: "false"

@@ -1,0 +1,8 @@
+Given the following conversation history and a new question, rewrite the question to be self-contained and clear for a legal document search system.
+
+Conversation History:
+{history}
+
+New Question: {question}
+
+Rewritten Question (preserve all legal terms, names, and dates):

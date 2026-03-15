@@ -1,0 +1,8 @@
+The retrieved documents do not contain sufficient information to answer this question.
+
+Please try:
+1. Rephrasing your question with different legal keywords
+2. Checking if the relevant document has been uploaded
+3. Asking a more specific question about a particular clause, section, or party
+
+Your question was: {question}

@@ -1,0 +1,7 @@
+When citing sources in your response, always use this format:
+
+[Source: {filename}, Page {page_number}, Section: {section_heading}]
+
+Example: [Source: employment_contract_2024.pdf, Page 3, Section: Termination Clause]
+
+Always cite at the end of each claim, not at the end of the full response.

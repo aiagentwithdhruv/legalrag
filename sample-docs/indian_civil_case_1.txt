@@ -1,0 +1,340 @@
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+CIVIL APPEAL NOS. 7821 & 7822 OF 2024
+
+(Arising out of SLP (C) Nos. 19683-19684 of 2023)
+
+SBI GENERAL INSURANCE CO. LTD.                            ...Appellant
+
+VERSUS
+
+M/S KRISH SPINNING                                        ...Respondent
+
+CORAM:
+HON'BLE THE CHIEF JUSTICE DR. DHANANJAYA Y. CHANDRACHUD
+HON'BLE MR. JUSTICE J.B. PARDIWALA
+HON'BLE MR. JUSTICE MANOJ MISRA
+
+JUDGMENT RESERVED ON: 10 MAY 2024
+JUDGMENT PRONOUNCED ON: 18 JULY 2024
+
+CITATION: 2024 INSC 532
+
+JUDGMENT
+
+J.B. PARDIWALA, J.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I. INTRODUCTION
+
+1. These appeals arise out of a judgment and order dated 24.08.2023 passed
+by the High Court of Gujarat at Ahmedabad in Civil Application (OJ) No.
+176 of 2021, whereby the learned Single Judge of the High Court allowed the
+said application filed by the respondent under Section 11(6) of the
+Arbitration and Conciliation Act, 1996 (hereinafter referred to as "the
+Act, 1996") and appointed Justice K.A. Puj (Retd.), Former Judge of the
+Gujarat High Court, as sole arbitrator to adjudicate the disputes between
+the parties.
+
+2. The central question of law that arises for consideration in these
+appeals is: Whether execution of a discharge voucher acknowledging "full and
+final settlement" of insurance claims constitutes an absolute bar to the
+invocation of arbitration, particularly when the signatory later disputes the
+voluntary nature of such execution on grounds of coercion and financial
+distress?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+II. BACKGROUND AND FACTS
+
+3. The respondent, M/s Krish Spinning, is a partnership firm engaged in
+the business of cotton spinning. The appellant, SBI General Insurance Co.
+Ltd., is a general insurance company duly registered under the Insurance Act,
+1938.
+
+4. On 31.03.2018, the respondent obtained a Fire and Special Perils Policy
+from the appellant bearing Policy No. 7101000119P102267419, providing coverage
+of Rs. 7,20,00,000/- (Rupees Seven Crore Twenty Lakhs only) for the policy
+period 31.03.2018 to 30.03.2019.
+
+FIRST FIRE INCIDENT - 28.05.2018:
+
+5. During the subsistence of the policy, the respondent's factory premises
+suffered a fire incident on 28.05.2018. The respondent submitted a claim of
+Rs. 1,76,19,967/- (Rupees One Crore Seventy-Six Lakhs Nineteen Thousand Nine
+Hundred and Sixty-Seven only). The appellant deputed a licensed independent
+surveyor and loss assessor to assess the actual loss suffered.
+
+6. After thorough survey, the surveyor assessed the loss at Rs. 84,19,579/-
+(Rupees Eighty-Four Lakhs Nineteen Thousand Five Hundred and Seventy-Nine
+only). The respondent, through its authorized partner Mr. Narendrabhai
+Paragbhai Dhamsaniya, executed a consent letter dated 24.12.2018 specifically
+accepting the surveyor's assessed amount as full and final settlement. On
+04.01.2019, the respondent executed an advance discharge voucher confirming
+the receipt of Rs. 84,08,957/- as "full and final settlement of all claims,
+demands, rights, and causes of action" arising from the first fire. The
+appellant accordingly released this amount on 31.01.2019.
+
+SECOND FIRE INCIDENT - 17.11.2018:
+
+7. Before the settlement of the first claim, a second fire incident occurred
+at the respondent's factory premises on 17.11.2018. This claim was much larger,
+valued at approximately Rs. 8 crore. The appellant processed this claim and
+released the full settled amount of Rs. 4,86,67,050/- in installments,
+with the final payment made on 14.10.2019.
+
+EMERGENCE OF THE DISPUTE:
+
+8. Barely eleven days after receiving the final payment for the second claim
+(i.e., on 25.10.2019), the respondent addressed a letter to the appellant
+making startling allegations: (a) that the surveyor's report for the first
+claim was never shared with the respondent; and (b) that the discharge voucher
+for the first claim was obtained by the appellant under duress and coercion,
+taking advantage of the respondent's financially distressed situation owing
+to the pending second claim.
+
+9. The appellant rejected this letter vide its communication dated 06.11.2019
+and subsequently provided the surveyor's report on 07.11.2019.
+
+10. On 02.03.2020, the respondent issued a legal notice demanding payment
+of the balance of its first claim (i.e., difference between Rs. 1,76,19,967/-
+claimed and Rs. 84,08,957/- received = Rs. 92,11,010/-) and simultaneously
+invoked the arbitration clause contained in the insurance policy. After
+receiving no favorable response, the respondent filed a petition under Section
+11(6) of the Act, 1996 on 25.10.2021 before the Gujarat High Court seeking
+appointment of an arbitrator.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+III. ISSUES FRAMED FOR DETERMINATION
+
+11. The following questions of law arise for this Court's consideration:
+
+(i)  Whether the execution of a full and final settlement discharge voucher
+     constitutes an absolute bar to the invocation of arbitration?
+
+(ii) What is the standard of judicial scrutiny applicable to referral courts
+     under Section 11(6) of the Act, 1996 when a plea of "accord and
+     satisfaction" is raised by one party?
+
+(iii) Whether legislative amendments introducing Section 11(6-A) of the Act,
+      1996 have altered the scope of power exercised by referral courts?
+
+(iv) Whether the arbitration agreement embedded in an insurance policy survives
+     the discharge of the underlying contract?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IV. SUBMISSIONS OF THE PARTIES
+
+SUBMISSIONS ON BEHALF OF THE APPELLANT (SBI GENERAL INSURANCE):
+
+12. Mr. Dushyant Dave, learned Senior Counsel appearing for the appellant,
+submitted as follows:
+
+(a) The respondent voluntarily and without any reservation signed the consent
+letter dated 24.12.2018 and the discharge voucher dated 04.01.2019. The
+signatory was an experienced businessman who understood the implications of
+the documents executed.
+
+(b) There is no evidence whatsoever of any "take it or leave it" offer or
+any coercive conduct by the appellant. The allegations of coercion were
+raised fourteen months after the payment of the first claim was received and
+eleven days after full payment of the second claim.
+
+(c) The inordinate delay in raising the coercion plea demolishes the
+respondent's case. A genuine victim of coercion would have raised objections
+contemporaneously, not after profiting from a second insurance settlement.
+
+(d) Accord and satisfaction extinguishes the underlying contractual rights.
+When a contract is discharged by performance or settlement, the arbitration
+clause embedded therein also stands discharged, as there is no longer any
+dispute arising "under" or "in relation to" the contract.
+
+(e) The claim is stale and the respondent's conduct amounts to forum shopping
+and abuse of process.
+
+SUBMISSIONS ON BEHALF OF THE RESPONDENT (M/S KRISH SPINNING):
+
+13. Mr. Abhishek Manu Singhvi, learned Senior Counsel for the respondent,
+countered:
+
+(a) The respondent was in acute financial distress at the time of signing the
+discharge voucher. The pending claim of approximately Rs. 8 crore for the
+second fire created an impossible situation—the respondent needed to keep the
+insurer satisfied to recover the larger amount and was therefore compelled to
+accept the reduced settlement for the first claim.
+
+(b) The letter dated 25.10.2019 was sent within eleven days of the final
+settlement of the second claim, demonstrating the respondent's promptness
+once the coercive pressure was removed.
+
+(c) The arbitration agreement is a separate and autonomous agreement from the
+underlying contract. Even if the main contract is discharged, the arbitration
+clause survives under the doctrine of separability enshrined in Section 16(1)
+of the Act, 1996.
+
+(d) Whether the discharge voucher was signed under coercion is itself a
+disputed question of fact that must be decided by the arbitrator, not by the
+referral court. The Section 11(6) jurisdiction is limited to examining whether
+a valid arbitration agreement exists.
+
+(e) The post-2015 legislative amendments mandatorily restrict the Section 11(6)
+court to examining only the existence of the arbitration agreement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+V. COURT'S ANALYSIS AND REASONING
+
+A. PRELIMINARY OBJECTIONS:
+
+14. The Court rejected two preliminary objections raised by the appellant:
+
+(i)  No admission of liability: The Court found that liability was never
+     disputed—both claims were processed and paid by the insurer. The dispute
+     concerned only the quantum, i.e., whether the first claim settlement
+     was inadequate.
+
+(ii) Limitation: The respondent raised the coercion plea in October 2019, filed
+     legal notice in March 2020, and the Section 11(6) petition in October 2021.
+     This was within the applicable three-year limitation period from the date
+     the cause of action arose.
+
+B. ARBITRATION AGREEMENT SURVIVES DISCHARGE OF CONTRACT:
+
+15. Drawing from the doctrine of separability under Section 16(1) of the Act,
+1996, the Court firmly held that an arbitration clause does not perish merely
+because the underlying substantive contract is discharged.
+
+16. The Court reasoned: "An arbitration agreement is incorporated by the parties
+with the mutual intention to settle all disputes arising under the substantive
+contract, including disputes about the validity of the contract's termination
+itself. The arbitration agreement is thus designed to outlast the contract it
+accompanies, unless the parties expressly agree otherwise."
+
+17. Where a party challenges the validity of a settlement (such as a discharge
+voucher), that very challenge constitutes a dispute "arising in relation to"
+the original contract, which falls squarely within the arbitration clause's
+scope.
+
+C. FULL AND FINAL SETTLEMENT - NOT AN ABSOLUTE BAR:
+
+18. Relying upon the landmark Constitution Bench decision in National Insurance
+Co. Ltd. v. Boghara Polyfab (P) Ltd. (2009) 1 SCC 267, the Court reiterated
+that "mere execution of a discharge voucher is not an absolute bar to
+arbitration when the validity of such execution is challenged on credible grounds
+of fraud, coercion, or undue influence."
+
+19. The Court distinguished between two categories of cases:
+    - Category A: Where the discharge voucher is voluntarily executed with full
+      knowledge after receipt of adequate consideration — arbitration is barred.
+    - Category B: Where the discharge voucher's validity is challenged on grounds
+      of coercion, fraud, or undue influence — the challenge itself constitutes
+      an arbitrable dispute.
+
+D. SCOPE OF SECTION 11(6) JURISDICTION POST-2015 AMENDMENTS:
+
+20. The Court undertook extensive examination of the legislative history of
+Section 11(6-A) introduced by the Arbitration and Conciliation (Amendment)
+Act, 2015:
+
+"Notwithstanding any judgment, decree or order of the Supreme Court or any
+Court, the designation of an arbitral institution under sub-section (3A), the
+designation of a person under sub-section (4) or the appointment of an
+arbitrator under sub-sections (4) or (5) or (6), shall not be affected by the
+judgment, decree or order of the Supreme Court or any Court regarding the
+appointment of arbitrators, after such appointment is made by the arbitral
+institution or person as the case may be."
+
+21. The Court held that the 2015 amendment mandated that referral courts restrict
+their examination strictly to the existence of the arbitration agreement. The
+Court noted the evolution of judicial thinking:
+
+Pre-2015 (Boghara Polyfab era): Courts could conduct limited examination of
+accord and satisfaction defences.
+
+Post-2015 (Mayavati Trading era): Legislative intent confines court to examining
+whether a valid arbitration agreement exists — all other disputes go to the
+arbitrator.
+
+22. Citing Vidya Drolia v. Durga Trading Corporation (2021) 2 SCC 1, the Court
+identified the narrow exceptions where referral courts may decline reference:
+(a) When the arbitration agreement is manifestly non-existent or null and void;
+(b) When the subject matter is demonstrably non-arbitrable;
+(c) When the claim is ex facie frivolous, vexatious, or deadwood.
+
+None of these exceptions applied to the present case.
+
+E. APPLICATION TO PRESENT FACTS:
+
+23. Evaluating the respondent's allegations, the Court found:
+
+(a) The allegations of coercion were not bald or unsupported. The respondent
+articulated a specific economic mechanism of coercion: a pending Rs. 8 crore
+second claim created dependence on the insurer's goodwill, making resistance
+to an under-settlement commercially impossible.
+
+(b) The protest letter dated 25.10.2019 was sent eleven days after the final
+settlement of the second claim—a timeframe consistent with someone freed from
+coercive pressure, not with a party manufacturing a belated grievance.
+
+(c) There was no prima facie evidence conclusively disproving the coercion
+allegations at the Section 11(6) stage.
+
+(d) Whether the discharge voucher was truly voluntary is a factual dispute best
+resolved through evidence before an arbitrator, not through a mini-trial at
+the referral stage.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VI. FINAL ORDER
+
+24. For the foregoing reasons, this Court holds:
+
+(i)  The arbitration clause in an insurance policy survives the execution of
+     a discharge voucher for full and final settlement when the validity of
+     such discharge voucher is itself under bona fide challenge.
+
+(ii) Post-2015 amendments to the Act, 1996 restrict the referral court's
+     jurisdiction under Section 11(6) to examining the existence of an
+     arbitration agreement; disputed questions of coercion, fraud, or undue
+     influence must be determined by the arbitrator.
+
+(iii) The respondent's allegations of economic coercion are not ex facie
+      frivolous and disclose a genuine triable dispute.
+
+25. Both Civil Appeal Nos. 7821 and 7822 of 2024 are accordingly DISMISSED.
+
+26. The appointment of Justice K.A. Puj (Retd.) as sole arbitrator by the
+Gujarat High Court is UPHELD. The learned arbitrator shall proceed with the
+arbitral proceedings in accordance with law.
+
+27. The arbitrator is requested to expedite the proceedings given the
+considerable time that has already elapsed since the first fire incident in
+2018.
+
+28. Costs shall be costs in the arbitration.
+
+                                    ....................................J.
+                                    (DR. DHANANJAYA Y. CHANDRACHUD)
+                                    CHIEF JUSTICE OF INDIA
+
+
+                                    ....................................J.
+                                    (J.B. PARDIWALA)
+                                    JUDGE
+
+
+                                    ....................................J.
+                                    (MANOJ MISRA)
+                                    JUDGE
+
+New Delhi;
+18th July, 2024.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SOURCE: Indian Kanoon - https://indiankanoon.org/doc/171443079/
+CITATION: 2024 INSC 532
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
