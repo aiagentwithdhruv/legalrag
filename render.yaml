@@ -2,8 +2,6 @@ services:
   - type: web
     name: legalrag-api
     runtime: docker
-    dockerfilePath: backend/Dockerfile
-    dockerContext: backend
     plan: free
     healthCheckPath: /health
     envVars:
