@@ -13,6 +13,8 @@
 
 **Upload legal documents → Chat with them → Get cited, grounded answers**
 
+**Live Demo:** https://legalrag-ui.vercel.app
+
 *Built for the [Euron AI Architect Mastery](https://euron.one) bootcamp*
 
 </div>
